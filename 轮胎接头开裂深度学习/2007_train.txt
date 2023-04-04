@@ -1,0 +1,584 @@
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/1.jpg 1561,3547,1614,3717,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/10.jpg 1595,7453,1646,7600,0 847,5474,889,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/101.jpg 1555,5281,1598,5402,0 1561,7289,1607,7424,0 839,3225,880,3360,0 831,5145,885,5324,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/102.jpg 1505,3817,1555,3949,0 863,757,916,877,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/103.jpg 1585,1741,1631,1872,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/104.jpg 850,7481,889,7631,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/105.jpg 845,5517,908,5670,0 1545,3883,1607,4037,0 1551,3048,1603,3182,0 848,5028,904,5151,0 848,4677,908,4818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/106.jpg 1571,2755,1609,2844,0 935,1078,978,1190,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/107.jpg 1575,5834,1627,6003,0 861,6820,896,6932,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/11.jpg 1587,7887,1635,8027,0 845,5906,886,6027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/12.jpg 1567,2608,1637,2772,0 822,2721,872,2847,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/13.jpg 1574,3670,1618,3801,0 836,1663,879,1796,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/14.jpg 1579,4736,1638,4901,0 838,6375,907,6513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/15.jpg 829,6023,908,6204,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/16.jpg 1578,6546,1625,6658,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/17.jpg 1557,1131,1596,1244,0 1561,5931,1607,6069,0 864,7730,914,7868,0 866,3974,917,4095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/18.jpg 1563,6963,1635,7116,0 1559,5163,1609,5281,0 1551,3789,1614,3944,0 864,98,925,223,0 859,5423,914,5553,0 862,6746,918,6864,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/19.jpg 1580,7385,1627,7568,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/2.jpg 1567,6208,1629,6366,0 898,4321,937,4449,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/20.jpg 1583,5427,1635,5589,0 830,3363,885,3545,0 1577,529,1617,675,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/21.jpg 863,5525,903,5647,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/22.jpg 1589,2968,1632,3086,0 847,926,888,1095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/24.jpg 1565,3777,1627,3930,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/25.jpg 1582,4184,1636,4315,0 837,2153,885,2323,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/26.jpg 1598,5268,1659,5412,0 858,6928,929,7085,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/27.jpg 1607,3273,1665,3408,0 862,4924,924,5069,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/28.jpg 1603,8033,1666,8174,0 846,6848,914,6984,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/29.jpg 1598,4264,1656,4397,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/3.jpg 1630,5700,1687,5840,0 903,7273,974,7423,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/30.jpg 885,7481,959,7638,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/31.jpg 888,5529,956,5678,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/32.jpg 1589,7704,1655,7853,0 846,859,909,992,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/33.jpg 868,5585,923,5705,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/34.jpg 1609,2531,1654,2666,0 1614,5401,1652,5514,0 901,3410,932,3507,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/35.jpg 852,7829,904,7931,0 1596,6151,1665,6307,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/36.jpg 1589,2860,1662,3024,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/37.jpg 858,1988,922,2131,0 1595,316,1652,463,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/38.jpg 858,6361,922,6529,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/39.jpg 1603,404,1669,563,0 851,2051,920,2232,0 858,2675,920,2795,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/4.jpg 1588,2127,1626,2265,0 871,123,905,231,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/40.jpg 859,915,924,1063,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/41.jpg 1587,2309,1655,2470,0 1586,3449,1653,3613,0 861,6459,916,6576,0 859,5145,915,5262,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/42.jpg 850,3435,907,3567,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/43.jpg 1631,436,1689,559,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/44.jpg 1632,3351,1690,3504,0 884,5022,944,5158,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/45.jpg 864,4749,922,4891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/46.jpg 1624,4184,1682,4301,0 888,5552,950,5672,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/47.jpg 1622,5019,1685,5146,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/48.jpg 887,2575,947,2730,0 891,7527,950,7676,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/49.jpg 1624,1162,1680,1287,0 1629,2874,1681,2994,0 884,4533,946,4661,0 884,2819,943,2957,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/5.jpg 1562,5991,1629,6140,0 883,7582,935,7704,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/50.jpg 1628,4658,1684,4775,0 889,6314,947,6448,0 885,4605,942,4726,0 1626,2946,1687,3068,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/51.jpg 1621,1699,1693,1829,0 1618,2633,1687,2788,0 887,3347,944,3475,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/52.jpg 1628,5910,1687,6065,0 1620,7017,1681,7159,0 883,7574,937,7693,0 887,210,954,346,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/53.jpg 1633,6622,1694,6746,0 883,8298,939,8415,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/54.jpg 1619,132,1675,265,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/55.jpg 851,712,910,852,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/56.jpg 1595,6360,1634,6495,0 864,4373,903,4499,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/57.jpg 1669,1785,1722,1974,0 1672,6876,1742,7040,0 789,3777,854,3954,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/58.jpg 1673,4731,1731,4871,0 793,6690,859,6840,0 785,5441,851,5609,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/59.jpg 1633,2991,1698,3151,0 816,4797,876,4941,0 804,8325,872,8473,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/6.jpg 1580,4811,1627,4944,0 1585,6205,1625,6342,0 871,2804,909,2923,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/7.jpg 1576,5552,1632,5680,0 866,7144,930,7289,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/8.jpg 1580,4136,1645,4268,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/9.jpg 1580,4074,1629,4219,0 1585,6473,1634,6627,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/90.jpg 1501,2799,1545,2934,0 903,1231,952,1390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/91.jpg 952,5902,1004,6070,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/92.jpg 1546,4009,1602,4173,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/93.jpg 911,3093,956,3242,0 910,1256,964,1436,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/94.jpg 1547,4492,1593,4621,0 922,2751,968,2910,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/95.jpg 1607,532,1671,613,0 1611,5545,1675,5645,0 781,5471,847,5597,0 791,4432,845,4513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/96.jpg 1605,3393,1671,3486,0 775,4056,827,4135,0 785,2248,838,2360,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/97.jpg 1635,515,1701,607,0 765,5979,839,6081,0 775,5461,836,5565,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A1.jpg 878,3547,931,3717,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A10.jpg 846,7453,897,7600,0 1603,5474,1645,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A101.jpg 894,5281,937,5402,0 885,7289,931,7424,0 1612,3225,1653,3360,0 1607,5145,1661,5324,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A102.jpg 937,3817,987,3949,0 1576,757,1629,877,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A103.jpg 861,1741,907,1872,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A104.jpg 1603,7481,1642,7631,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A105.jpg 1584,5517,1647,5670,0 885,3883,947,4037,0 889,3048,941,3182,0 1588,5028,1644,5151,0 1584,4677,1644,4818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A106.jpg 883,2755,921,2844,0 1514,1078,1557,1190,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A107.jpg 865,5834,917,6003,0 1596,6820,1631,6932,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A11.jpg 857,7887,905,8027,0 1606,5906,1647,6027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A12.jpg 855,2608,925,2772,0 1620,2721,1670,2847,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A13.jpg 874,3670,918,3801,0 1613,1663,1656,1796,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A14.jpg 854,4736,913,4901,0 1585,6375,1654,6513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A15.jpg 1584,6023,1663,6204,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A16.jpg 867,6546,914,6658,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A17.jpg 896,1131,935,1244,0 885,5931,931,6069,0 1578,7730,1628,7868,0 1575,3974,1626,4095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A18.jpg 857,6963,929,7116,0 883,5163,933,5281,0 878,3789,941,3944,0 1567,98,1628,223,0 1578,5423,1633,5553,0 1574,6746,1630,6864,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A19.jpg 865,7385,912,7568,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A2.jpg 863,6208,925,6366,0 1555,4321,1594,4449,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A20.jpg 857,5427,909,5589,0 1607,3363,1662,3545,0 875,529,915,675,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A21.jpg 1589,5525,1629,5647,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A22.jpg 860,2968,903,3086,0 1604,926,1645,1095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A24.jpg 865,3777,927,3930,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A25.jpg 856,4184,910,4315,0 1607,2153,1655,2323,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A26.jpg 833,5268,894,5412,0 1563,6928,1634,7085,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A27.jpg 827,3273,885,3408,0 1568,4924,1630,5069,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A28.jpg 826,8033,889,8174,0 1578,6848,1646,6984,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A29.jpg 836,4264,894,4397,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A3.jpg 805,5700,862,5840,0 1518,7273,1589,7423,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A30.jpg 1533,7481,1607,7638,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A31.jpg 1536,5529,1604,5678,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A32.jpg 837,7704,903,7853,0 1583,859,1646,992,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A33.jpg 1569,5585,1624,5705,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A34.jpg 838,2531,883,2666,0 840,5401,878,5514,0 1560,3410,1591,3507,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A35.jpg 1588,7829,1640,7931,0 827,6151,896,6307,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A36.jpg 830,2860,903,3024,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A37.jpg 1570,1988,1634,2131,0 840,316,897,463,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A38.jpg 1570,6361,1634,6529,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A39.jpg 823,404,889,563,0 1572,2051,1641,2232,0 1572,2675,1634,2795,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A4.jpg 866,2127,904,2265,0 1587,123,1621,231,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A40.jpg 1568,915,1633,1063,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A41.jpg 837,2309,905,2470,0 839,3449,906,3613,0 1576,6459,1631,6576,0 1577,5145,1633,5262,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A42.jpg 1585,3435,1642,3567,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A43.jpg 803,436,861,559,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A44.jpg 802,3351,860,3504,0 1548,5022,1608,5158,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A45.jpg 1570,4749,1628,4891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A46.jpg 810,4184,868,4301,0 1542,5552,1604,5672,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A47.jpg 807,5019,870,5146,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A48.jpg 1545,2575,1605,2730,0 1542,7527,1601,7676,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A49.jpg 812,1162,868,1287,0 811,2874,863,2994,0 1546,4533,1608,4661,0 1549,2819,1608,2957,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A5.jpg 863,5991,930,6140,0 1557,7582,1609,7704,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A50.jpg 808,4658,864,4775,0 1545,6314,1603,6448,0 1550,4605,1607,4726,0 805,2946,866,3068,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A51.jpg 799,1699,871,1829,0 805,2633,874,2788,0 1548,3347,1605,3475,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A52.jpg 805,5910,864,6065,0 811,7017,872,7159,0 1555,7574,1609,7693,0 1538,210,1605,346,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A53.jpg 798,6622,859,6746,0 1553,8298,1609,8415,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A54.jpg 817,132,873,265,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A55.jpg 1582,712,1641,852,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A56.jpg 858,6360,897,6495,0 1589,4373,1628,4499,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A57.jpg 770,1785,823,1974,0 750,6876,820,7040,0 1638,3777,1703,3954,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A58.jpg 761,4731,819,4871,0 1633,6690,1699,6840,0 1641,5441,1707,5609,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A59.jpg 794,2991,859,3151,0 1616,4797,1676,4941,0 1620,8325,1688,8473,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A6.jpg 865,4811,912,4944,0 867,6205,907,6342,0 1583,2804,1621,2923,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A7.jpg 860,5552,916,5680,0 1562,7144,1626,7289,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A8.jpg 847,4136,912,4268,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A9.jpg 863,4074,912,4219,0 858,6473,907,6627,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A90.jpg 947,2799,991,2934,0 1540,1231,1589,1390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A91.jpg 1488,5902,1540,6070,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A92.jpg 890,4009,946,4173,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A93.jpg 1536,3093,1581,3242,0 1528,1256,1582,1436,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A94.jpg 899,4492,945,4621,0 1524,2751,1570,2910,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A95.jpg 821,532,885,613,0 817,5545,881,5645,0 1645,5471,1711,5597,0 1647,4432,1701,4513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A96.jpg 821,3393,887,3486,0 1665,4056,1717,4135,0 1654,2248,1707,2360,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/A97.jpg 791,515,857,607,0 1653,5979,1727,6081,0 1656,5461,1717,5565,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B1.jpg 1561,4683,1614,4853,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B10.jpg 1595,900,1646,1047,0 847,2904,889,3026,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B101.jpg 1555,2998,1598,3119,0 1561,976,1607,1111,0 839,5040,880,5175,0 831,3076,885,3255,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B102.jpg 1505,4551,1555,4683,0 863,7623,916,7743,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B103.jpg 1585,6528,1631,6659,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B104.jpg 850,869,889,1019,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B105.jpg 845,2830,908,2983,0 1545,4463,1607,4617,0 1551,5318,1603,5452,0 848,3349,904,3472,0 848,3682,908,3823,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B106.jpg 1571,4956,1609,5045,0 935,6610,978,6722,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B107.jpg 1575,2397,1627,2566,0 861,1468,896,1580,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B11.jpg 1587,473,1635,613,0 845,2473,886,2594,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B12.jpg 1567,5728,1637,5892,0 822,5653,872,5779,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B13.jpg 1574,4699,1618,4830,0 836,6704,879,6837,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B14.jpg 1579,3499,1638,3664,0 838,1887,907,2025,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B15.jpg 829,2196,908,2377,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B16.jpg 1578,1742,1625,1854,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B17.jpg 1557,7256,1596,7369,0 1561,2431,1607,2569,0 864,632,914,770,0 866,4405,917,4526,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B18.jpg 1563,1384,1635,1537,0 1559,3219,1609,3337,0 1551,4556,1614,4711,0 864,8277,925,8402,0 859,2947,914,3077,0 862,1636,918,1754,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B19.jpg 1580,832,1627,1015,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B2.jpg 1567,2134,1629,2292,0 898,4051,937,4179,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B20.jpg 1583,2811,1635,2973,0 830,4855,885,5037,0 1577,7725,1617,7871,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B21.jpg 863,2853,903,2975,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B22.jpg 1589,5414,1632,5532,0 847,7405,888,7574,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B24.jpg 1565,4470,1627,4623,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B25.jpg 1582,4185,1636,4316,0 837,6177,885,6347,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B26.jpg 1598,3088,1659,3232,0 858,1415,929,1572,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B27.jpg 1607,5092,1665,5227,0 862,3431,924,3576,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B28.jpg 1603,326,1666,467,0 846,1516,914,1652,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B29.jpg 1598,4103,1656,4236,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B3.jpg 1630,2660,1687,2800,0 903,1077,974,1227,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B30.jpg 885,962,959,1119,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B31.jpg 888,2922,956,3071,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B32.jpg 1589,747,1655,896,0 846,7608,909,7741,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B33.jpg 868,2795,923,2915,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B34.jpg 1609,5734,1654,5869,0 1614,2886,1652,2999,0 901,4893,932,4990,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B35.jpg 852,569,904,671,0 1596,2193,1665,2349,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B36.jpg 1589,5576,1662,5740,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B37.jpg 858,6369,922,6512,0 1595,8037,1652,8184,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B38.jpg 858,1971,922,2139,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B39.jpg 1603,7937,1669,8096,0 851,6268,920,6449,0 858,5705,920,5825,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B4.jpg 1588,6235,1626,6373,0 871,8269,905,8377,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B40.jpg 859,7537,924,7685,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B41.jpg 1587,6130,1655,6291,0 1586,4987,1653,5151,0 861,2024,916,2141,0 859,3338,915,3455,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B42.jpg 850,4933,907,5065,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B43.jpg 1631,7941,1689,8064,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B44.jpg 1632,4996,1690,5149,0 884,3342,944,3478,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B45.jpg 864,3609,922,3751,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B46.jpg 1624,4199,1682,4316,0 888,2828,950,2948,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B47.jpg 1622,3354,1685,3481,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B48.jpg 887,5770,947,5925,0 891,824,950,973,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B49.jpg 1624,7113,1680,7238,0 1629,5406,1681,5526,0 884,3739,946,3867,0 884,5443,943,5581,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B5.jpg 1562,2260,1629,2409,0 883,696,935,818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B50.jpg 1628,3725,1684,3842,0 889,2052,947,2186,0 885,3774,942,3895,0 1626,5432,1687,5554,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B51.jpg 1621,6771,1693,6901,0 1618,5812,1687,5967,0 887,5125,944,5253,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B52.jpg 1628,2535,1687,2690,0 1620,1441,1681,1583,0 883,907,937,1026,0 887,8254,954,8390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B53.jpg 1633,1854,1694,1978,0 883,185,939,302,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B54.jpg 1619,8235,1675,8368,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B55.jpg 851,7648,910,7788,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B56.jpg 1595,1905,1634,2040,0 864,3901,903,4027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B57.jpg 1669,6626,1722,6815,0 1672,1560,1742,1724,0 789,4646,854,4823,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B58.jpg 1673,3729,1731,3869,0 793,1760,859,1910,0 785,2991,851,3159,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B59.jpg 1633,5449,1698,5609,0 816,3659,876,3803,0 804,127,872,275,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B6.jpg 1580,3456,1627,3589,0 1585,2058,1625,2195,0 871,5477,909,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B7.jpg 1576,2820,1632,2948,0 866,1211,930,1356,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B8.jpg 1580,4132,1645,4264,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B9.jpg 1580,4281,1629,4426,0 1585,1873,1634,2027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B90.jpg 1501,4966,1545,5101,0 903,6510,952,6669,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B91.jpg 952,1930,1004,2098,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B92.jpg 1546,3727,1602,3891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B93.jpg 911,4658,956,4807,0 910,6464,964,6644,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B94.jpg 1547,3279,1593,3408,0 922,4990,968,5149,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B95.jpg 1607,5587,1671,5668,0 1611,555,1675,655,0 781,603,847,729,0 791,1687,845,1768,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B96.jpg 1605,2714,1671,2807,0 775,2065,827,2144,0 785,3840,838,3952,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/B97.jpg 1635,5593,1701,5685,0 765,119,839,221,0 775,635,836,739,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C1.jpg 878,4683,931,4853,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C10.jpg 846,900,897,1047,0 1603,2904,1645,3026,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C101.jpg 894,2998,937,3119,0 885,976,931,1111,0 1612,5040,1653,5175,0 1607,3076,1661,3255,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C102.jpg 937,4551,987,4683,0 1576,7623,1629,7743,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C103.jpg 861,6528,907,6659,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C104.jpg 1603,869,1642,1019,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C105.jpg 1584,2830,1647,2983,0 885,4463,947,4617,0 889,5318,941,5452,0 1588,3349,1644,3472,0 1584,3682,1644,3823,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C106.jpg 883,4956,921,5045,0 1514,6610,1557,6722,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C107.jpg 865,2397,917,2566,0 1596,1468,1631,1580,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C11.jpg 857,473,905,613,0 1606,2473,1647,2594,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C12.jpg 855,5728,925,5892,0 1620,5653,1670,5779,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C13.jpg 874,4699,918,4830,0 1613,6704,1656,6837,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C14.jpg 854,3499,913,3664,0 1585,1887,1654,2025,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C15.jpg 1584,2196,1663,2377,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C16.jpg 867,1742,914,1854,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C17.jpg 896,7256,935,7369,0 885,2431,931,2569,0 1578,632,1628,770,0 1575,4405,1626,4526,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C18.jpg 857,1384,929,1537,0 883,3219,933,3337,0 878,4556,941,4711,0 1567,8277,1628,8402,0 1578,2947,1633,3077,0 1574,1636,1630,1754,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C19.jpg 865,832,912,1015,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C2.jpg 863,2134,925,2292,0 1555,4051,1594,4179,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C20.jpg 857,2811,909,2973,0 1607,4855,1662,5037,0 875,7725,915,7871,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C21.jpg 1589,2853,1629,2975,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C22.jpg 860,5414,903,5532,0 1604,7405,1645,7574,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C24.jpg 865,4470,927,4623,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C25.jpg 856,4185,910,4316,0 1607,6177,1655,6347,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C26.jpg 833,3088,894,3232,0 1563,1415,1634,1572,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C27.jpg 827,5092,885,5227,0 1568,3431,1630,3576,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C28.jpg 826,326,889,467,0 1578,1516,1646,1652,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C29.jpg 836,4103,894,4236,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C3.jpg 805,2660,862,2800,0 1518,1077,1589,1227,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C30.jpg 1533,962,1607,1119,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C31.jpg 1536,2922,1604,3071,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C32.jpg 837,747,903,896,0 1583,7608,1646,7741,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C33.jpg 1569,2795,1624,2915,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C34.jpg 838,5734,883,5869,0 840,2886,878,2999,0 1560,4893,1591,4990,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C35.jpg 1588,569,1640,671,0 827,2193,896,2349,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C36.jpg 830,5576,903,5740,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C37.jpg 1570,6369,1634,6512,0 840,8037,897,8184,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C38.jpg 1570,1971,1634,2139,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C39.jpg 823,7937,889,8096,0 1572,6268,1641,6449,0 1572,5705,1634,5825,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C4.jpg 866,6235,904,6373,0 1587,8269,1621,8377,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C40.jpg 1568,7537,1633,7685,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C41.jpg 837,6130,905,6291,0 839,4987,906,5151,0 1576,2024,1631,2141,0 1577,3338,1633,3455,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C42.jpg 1585,4933,1642,5065,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C43.jpg 803,7941,861,8064,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C44.jpg 802,4996,860,5149,0 1548,3342,1608,3478,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C45.jpg 1570,3609,1628,3751,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C46.jpg 810,4199,868,4316,0 1542,2828,1604,2948,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C47.jpg 807,3354,870,3481,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C48.jpg 1545,5770,1605,5925,0 1542,824,1601,973,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C49.jpg 812,7113,868,7238,0 811,5406,863,5526,0 1546,3739,1608,3867,0 1549,5443,1608,5581,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C5.jpg 863,2260,930,2409,0 1557,696,1609,818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C50.jpg 808,3725,864,3842,0 1545,2052,1603,2186,0 1550,3774,1607,3895,0 805,5432,866,5554,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C51.jpg 799,6771,871,6901,0 805,5812,874,5967,0 1548,5125,1605,5253,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C52.jpg 805,2535,864,2690,0 811,1441,872,1583,0 1555,907,1609,1026,0 1538,8254,1605,8390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C53.jpg 798,1854,859,1978,0 1553,185,1609,302,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C54.jpg 817,8235,873,8368,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C55.jpg 1582,7648,1641,7788,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C56.jpg 858,1905,897,2040,0 1589,3901,1628,4027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C57.jpg 770,6626,823,6815,0 750,1560,820,1724,0 1638,4646,1703,4823,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C58.jpg 761,3729,819,3869,0 1633,1760,1699,1910,0 1641,2991,1707,3159,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C59.jpg 794,5449,859,5609,0 1616,3659,1676,3803,0 1620,127,1688,275,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C6.jpg 865,3456,912,3589,0 867,2058,907,2195,0 1583,5477,1621,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C7.jpg 860,2820,916,2948,0 1562,1211,1626,1356,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C8.jpg 847,4132,912,4264,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C9.jpg 863,4281,912,4426,0 858,1873,907,2027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C90.jpg 947,4966,991,5101,0 1540,6510,1589,6669,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C91.jpg 1488,1930,1540,2098,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C92.jpg 890,3727,946,3891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C93.jpg 1536,4658,1581,4807,0 1528,6464,1582,6644,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C94.jpg 899,3279,945,3408,0 1524,4990,1570,5149,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C95.jpg 821,5587,885,5668,0 817,555,881,655,0 1645,603,1711,729,0 1647,1687,1701,1768,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C96.jpg 821,2714,887,2807,0 1665,2065,1717,2144,0 1654,3840,1707,3952,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/C97.jpg 791,5593,857,5685,0 1653,119,1727,221,0 1656,635,1717,739,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE1.jpg 1561,3547,1614,3717,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE10.jpg 1595,7453,1646,7600,0 847,5474,889,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE101.jpg 1555,5281,1598,5402,0 1561,7289,1607,7424,0 839,3225,880,3360,0 831,5145,885,5324,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE102.jpg 1505,3817,1555,3949,0 863,757,916,877,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE103.jpg 1585,1741,1631,1872,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE104.jpg 850,7481,889,7631,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE105.jpg 845,5517,908,5670,0 1545,3883,1607,4037,0 1551,3048,1603,3182,0 848,5028,904,5151,0 848,4677,908,4818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE106.jpg 1571,2755,1609,2844,0 935,1078,978,1190,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE107.jpg 1575,5834,1627,6003,0 861,6820,896,6932,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE11.jpg 1587,7887,1635,8027,0 845,5906,886,6027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE12.jpg 1567,2608,1637,2772,0 822,2721,872,2847,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE13.jpg 1574,3670,1618,3801,0 836,1663,879,1796,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE14.jpg 1579,4736,1638,4901,0 838,6375,907,6513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE15.jpg 829,6023,908,6204,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE16.jpg 1578,6546,1625,6658,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE17.jpg 1557,1131,1596,1244,0 1561,5931,1607,6069,0 864,7730,914,7868,0 866,3974,917,4095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE18.jpg 1563,6963,1635,7116,0 1559,5163,1609,5281,0 1551,3789,1614,3944,0 864,98,925,223,0 859,5423,914,5553,0 862,6746,918,6864,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE19.jpg 1580,7385,1627,7568,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE2.jpg 1567,6208,1629,6366,0 898,4321,937,4449,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE20.jpg 1583,5427,1635,5589,0 830,3363,885,3545,0 1577,529,1617,675,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE21.jpg 863,5525,903,5647,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE22.jpg 1589,2968,1632,3086,0 847,926,888,1095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE24.jpg 1565,3777,1627,3930,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE25.jpg 1582,4184,1636,4315,0 837,2153,885,2323,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE26.jpg 1598,5268,1659,5412,0 858,6928,929,7085,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE27.jpg 1607,3273,1665,3408,0 862,4924,924,5069,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE28.jpg 1603,8033,1666,8174,0 846,6848,914,6984,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE29.jpg 1598,4264,1656,4397,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE3.jpg 1630,5700,1687,5840,0 903,7273,974,7423,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE30.jpg 885,7481,959,7638,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE31.jpg 888,5529,956,5678,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE32.jpg 1589,7704,1655,7853,0 846,859,909,992,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE33.jpg 868,5585,923,5705,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE34.jpg 1609,2531,1654,2666,0 1614,5401,1652,5514,0 901,3410,932,3507,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE35.jpg 852,7829,904,7931,0 1596,6151,1665,6307,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE36.jpg 1589,2860,1662,3024,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE37.jpg 858,1988,922,2131,0 1595,316,1652,463,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE38.jpg 858,6361,922,6529,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE39.jpg 1603,404,1669,563,0 851,2051,920,2232,0 858,2675,920,2795,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE4.jpg 1588,2127,1626,2265,0 871,123,905,231,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE40.jpg 859,915,924,1063,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE41.jpg 1587,2309,1655,2470,0 1586,3449,1653,3613,0 861,6459,916,6576,0 859,5145,915,5262,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE42.jpg 850,3435,907,3567,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE43.jpg 1631,436,1689,559,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE44.jpg 1632,3351,1690,3504,0 884,5022,944,5158,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE45.jpg 864,4749,922,4891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE46.jpg 1624,4184,1682,4301,0 888,5552,950,5672,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE47.jpg 1622,5019,1685,5146,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE48.jpg 887,2575,947,2730,0 891,7527,950,7676,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE49.jpg 1624,1162,1680,1287,0 1629,2874,1681,2994,0 884,4533,946,4661,0 884,2819,943,2957,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE5.jpg 1562,5991,1629,6140,0 883,7582,935,7704,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE50.jpg 1628,4658,1684,4775,0 889,6314,947,6448,0 885,4605,942,4726,0 1626,2946,1687,3068,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE51.jpg 1621,1699,1693,1829,0 1618,2633,1687,2788,0 887,3347,944,3475,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE52.jpg 1628,5910,1687,6065,0 1620,7017,1681,7159,0 883,7574,937,7693,0 887,210,954,346,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE53.jpg 1633,6622,1694,6746,0 883,8298,939,8415,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE54.jpg 1619,132,1675,265,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE55.jpg 851,712,910,852,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE56.jpg 1595,6360,1634,6495,0 864,4373,903,4499,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE57.jpg 1669,1785,1722,1974,0 1672,6876,1742,7040,0 789,3777,854,3954,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE58.jpg 1673,4731,1731,4871,0 793,6690,859,6840,0 785,5441,851,5609,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE59.jpg 1633,2991,1698,3151,0 816,4797,876,4941,0 804,8325,872,8473,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE6.jpg 1580,4811,1627,4944,0 1585,6205,1625,6342,0 871,2804,909,2923,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE7.jpg 1576,5552,1632,5680,0 866,7144,930,7289,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE8.jpg 1580,4136,1645,4268,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE9.jpg 1580,4074,1629,4219,0 1585,6473,1634,6627,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE90.jpg 1501,2799,1545,2934,0 903,1231,952,1390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE91.jpg 952,5902,1004,6070,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE92.jpg 1546,4009,1602,4173,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE93.jpg 911,3093,956,3242,0 910,1256,964,1436,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE94.jpg 1547,4492,1593,4621,0 922,2751,968,2910,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE95.jpg 1607,532,1671,613,0 1611,5545,1675,5645,0 781,5471,847,5597,0 791,4432,845,4513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE96.jpg 1605,3393,1671,3486,0 775,4056,827,4135,0 785,2248,838,2360,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/EDGE_ENHANCE97.jpg 1635,515,1701,607,0 765,5979,839,6081,0 775,5461,836,5565,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur1.jpg 1561,3547,1614,3717,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur10.jpg 1595,7453,1646,7600,0 847,5474,889,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur101.jpg 1555,5281,1598,5402,0 1561,7289,1607,7424,0 839,3225,880,3360,0 831,5145,885,5324,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur102.jpg 1505,3817,1555,3949,0 863,757,916,877,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur103.jpg 1585,1741,1631,1872,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur104.jpg 850,7481,889,7631,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur105.jpg 845,5517,908,5670,0 1545,3883,1607,4037,0 1551,3048,1603,3182,0 848,5028,904,5151,0 848,4677,908,4818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur106.jpg 1571,2755,1609,2844,0 935,1078,978,1190,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur107.jpg 1575,5834,1627,6003,0 861,6820,896,6932,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur11.jpg 1587,7887,1635,8027,0 845,5906,886,6027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur12.jpg 1567,2608,1637,2772,0 822,2721,872,2847,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur13.jpg 1574,3670,1618,3801,0 836,1663,879,1796,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur14.jpg 1579,4736,1638,4901,0 838,6375,907,6513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur15.jpg 829,6023,908,6204,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur16.jpg 1578,6546,1625,6658,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur17.jpg 1557,1131,1596,1244,0 1561,5931,1607,6069,0 864,7730,914,7868,0 866,3974,917,4095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur18.jpg 1563,6963,1635,7116,0 1559,5163,1609,5281,0 1551,3789,1614,3944,0 864,98,925,223,0 859,5423,914,5553,0 862,6746,918,6864,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur19.jpg 1580,7385,1627,7568,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur2.jpg 1567,6208,1629,6366,0 898,4321,937,4449,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur20.jpg 1583,5427,1635,5589,0 830,3363,885,3545,0 1577,529,1617,675,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur21.jpg 863,5525,903,5647,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur22.jpg 1589,2968,1632,3086,0 847,926,888,1095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur24.jpg 1565,3777,1627,3930,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur25.jpg 1582,4184,1636,4315,0 837,2153,885,2323,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur26.jpg 1598,5268,1659,5412,0 858,6928,929,7085,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur27.jpg 1607,3273,1665,3408,0 862,4924,924,5069,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur28.jpg 1603,8033,1666,8174,0 846,6848,914,6984,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur29.jpg 1598,4264,1656,4397,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur3.jpg 1630,5700,1687,5840,0 903,7273,974,7423,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur30.jpg 885,7481,959,7638,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur31.jpg 888,5529,956,5678,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur32.jpg 1589,7704,1655,7853,0 846,859,909,992,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur33.jpg 868,5585,923,5705,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur34.jpg 1609,2531,1654,2666,0 1614,5401,1652,5514,0 901,3410,932,3507,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur35.jpg 852,7829,904,7931,0 1596,6151,1665,6307,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur36.jpg 1589,2860,1662,3024,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur37.jpg 858,1988,922,2131,0 1595,316,1652,463,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur38.jpg 858,6361,922,6529,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur39.jpg 1603,404,1669,563,0 851,2051,920,2232,0 858,2675,920,2795,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur4.jpg 1588,2127,1626,2265,0 871,123,905,231,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur40.jpg 859,915,924,1063,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur41.jpg 1587,2309,1655,2470,0 1586,3449,1653,3613,0 861,6459,916,6576,0 859,5145,915,5262,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur42.jpg 850,3435,907,3567,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur43.jpg 1631,436,1689,559,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur44.jpg 1632,3351,1690,3504,0 884,5022,944,5158,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur45.jpg 864,4749,922,4891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur46.jpg 1624,4184,1682,4301,0 888,5552,950,5672,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur47.jpg 1622,5019,1685,5146,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur48.jpg 887,2575,947,2730,0 891,7527,950,7676,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur49.jpg 1624,1162,1680,1287,0 1629,2874,1681,2994,0 884,4533,946,4661,0 884,2819,943,2957,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur5.jpg 1562,5991,1629,6140,0 883,7582,935,7704,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur50.jpg 1628,4658,1684,4775,0 889,6314,947,6448,0 885,4605,942,4726,0 1626,2946,1687,3068,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur51.jpg 1621,1699,1693,1829,0 1618,2633,1687,2788,0 887,3347,944,3475,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur52.jpg 1628,5910,1687,6065,0 1620,7017,1681,7159,0 883,7574,937,7693,0 887,210,954,346,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur53.jpg 1633,6622,1694,6746,0 883,8298,939,8415,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur54.jpg 1619,132,1675,265,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur55.jpg 851,712,910,852,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur56.jpg 1595,6360,1634,6495,0 864,4373,903,4499,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur57.jpg 1669,1785,1722,1974,0 1672,6876,1742,7040,0 789,3777,854,3954,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur58.jpg 1673,4731,1731,4871,0 793,6690,859,6840,0 785,5441,851,5609,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur59.jpg 1633,2991,1698,3151,0 816,4797,876,4941,0 804,8325,872,8473,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur6.jpg 1580,4811,1627,4944,0 1585,6205,1625,6342,0 871,2804,909,2923,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur7.jpg 1576,5552,1632,5680,0 866,7144,930,7289,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur8.jpg 1580,4136,1645,4268,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur9.jpg 1580,4074,1629,4219,0 1585,6473,1634,6627,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur90.jpg 1501,2799,1545,2934,0 903,1231,952,1390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur91.jpg 952,5902,1004,6070,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur92.jpg 1546,4009,1602,4173,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur93.jpg 911,3093,956,3242,0 910,1256,964,1436,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur94.jpg 1547,4492,1593,4621,0 922,2751,968,2910,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur95.jpg 1607,532,1671,613,0 1611,5545,1675,5645,0 781,5471,847,5597,0 791,4432,845,4513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur96.jpg 1605,3393,1671,3486,0 775,4056,827,4135,0 785,2248,838,2360,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/GaussianBlur97.jpg 1635,515,1701,607,0 765,5979,839,6081,0 775,5461,836,5565,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN1.jpg 1561,3547,1614,3717,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN10.jpg 1595,7453,1646,7600,0 847,5474,889,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN101.jpg 1555,5281,1598,5402,0 1561,7289,1607,7424,0 839,3225,880,3360,0 831,5145,885,5324,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN102.jpg 1505,3817,1555,3949,0 863,757,916,877,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN103.jpg 1585,1741,1631,1872,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN104.jpg 850,7481,889,7631,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN105.jpg 845,5517,908,5670,0 1545,3883,1607,4037,0 1551,3048,1603,3182,0 848,5028,904,5151,0 848,4677,908,4818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN106.jpg 1571,2755,1609,2844,0 935,1078,978,1190,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN107.jpg 1575,5834,1627,6003,0 861,6820,896,6932,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN11.jpg 1587,7887,1635,8027,0 845,5906,886,6027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN12.jpg 1567,2608,1637,2772,0 822,2721,872,2847,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN13.jpg 1574,3670,1618,3801,0 836,1663,879,1796,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN14.jpg 1579,4736,1638,4901,0 838,6375,907,6513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN15.jpg 829,6023,908,6204,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN16.jpg 1578,6546,1625,6658,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN17.jpg 1557,1131,1596,1244,0 1561,5931,1607,6069,0 864,7730,914,7868,0 866,3974,917,4095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN18.jpg 1563,6963,1635,7116,0 1559,5163,1609,5281,0 1551,3789,1614,3944,0 864,98,925,223,0 859,5423,914,5553,0 862,6746,918,6864,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN19.jpg 1580,7385,1627,7568,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN2.jpg 1567,6208,1629,6366,0 898,4321,937,4449,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN20.jpg 1583,5427,1635,5589,0 830,3363,885,3545,0 1577,529,1617,675,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN21.jpg 863,5525,903,5647,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN22.jpg 1589,2968,1632,3086,0 847,926,888,1095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN24.jpg 1565,3777,1627,3930,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN25.jpg 1582,4184,1636,4315,0 837,2153,885,2323,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN26.jpg 1598,5268,1659,5412,0 858,6928,929,7085,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN27.jpg 1607,3273,1665,3408,0 862,4924,924,5069,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN28.jpg 1603,8033,1666,8174,0 846,6848,914,6984,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN29.jpg 1598,4264,1656,4397,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN3.jpg 1630,5700,1687,5840,0 903,7273,974,7423,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN30.jpg 885,7481,959,7638,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN31.jpg 888,5529,956,5678,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN32.jpg 1589,7704,1655,7853,0 846,859,909,992,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN33.jpg 868,5585,923,5705,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN34.jpg 1609,2531,1654,2666,0 1614,5401,1652,5514,0 901,3410,932,3507,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN35.jpg 852,7829,904,7931,0 1596,6151,1665,6307,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN36.jpg 1589,2860,1662,3024,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN37.jpg 858,1988,922,2131,0 1595,316,1652,463,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN38.jpg 858,6361,922,6529,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN39.jpg 1603,404,1669,563,0 851,2051,920,2232,0 858,2675,920,2795,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN4.jpg 1588,2127,1626,2265,0 871,123,905,231,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN40.jpg 859,915,924,1063,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN41.jpg 1587,2309,1655,2470,0 1586,3449,1653,3613,0 861,6459,916,6576,0 859,5145,915,5262,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN42.jpg 850,3435,907,3567,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN43.jpg 1631,436,1689,559,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN44.jpg 1632,3351,1690,3504,0 884,5022,944,5158,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN45.jpg 864,4749,922,4891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN46.jpg 1624,4184,1682,4301,0 888,5552,950,5672,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN47.jpg 1622,5019,1685,5146,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN48.jpg 887,2575,947,2730,0 891,7527,950,7676,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN49.jpg 1624,1162,1680,1287,0 1629,2874,1681,2994,0 884,4533,946,4661,0 884,2819,943,2957,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN5.jpg 1562,5991,1629,6140,0 883,7582,935,7704,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN50.jpg 1628,4658,1684,4775,0 889,6314,947,6448,0 885,4605,942,4726,0 1626,2946,1687,3068,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN51.jpg 1621,1699,1693,1829,0 1618,2633,1687,2788,0 887,3347,944,3475,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN52.jpg 1628,5910,1687,6065,0 1620,7017,1681,7159,0 883,7574,937,7693,0 887,210,954,346,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN53.jpg 1633,6622,1694,6746,0 883,8298,939,8415,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN54.jpg 1619,132,1675,265,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN55.jpg 851,712,910,852,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN56.jpg 1595,6360,1634,6495,0 864,4373,903,4499,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN57.jpg 1669,1785,1722,1974,0 1672,6876,1742,7040,0 789,3777,854,3954,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN58.jpg 1673,4731,1731,4871,0 793,6690,859,6840,0 785,5441,851,5609,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN59.jpg 1633,2991,1698,3151,0 816,4797,876,4941,0 804,8325,872,8473,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN6.jpg 1580,4811,1627,4944,0 1585,6205,1625,6342,0 871,2804,909,2923,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN7.jpg 1576,5552,1632,5680,0 866,7144,930,7289,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN8.jpg 1580,4136,1645,4268,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN9.jpg 1580,4074,1629,4219,0 1585,6473,1634,6627,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN90.jpg 1501,2799,1545,2934,0 903,1231,952,1390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN91.jpg 952,5902,1004,6070,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN92.jpg 1546,4009,1602,4173,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN93.jpg 911,3093,956,3242,0 910,1256,964,1436,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN94.jpg 1547,4492,1593,4621,0 922,2751,968,2910,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN95.jpg 1607,532,1671,613,0 1611,5545,1675,5645,0 781,5471,847,5597,0 791,4432,845,4513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN96.jpg 1605,3393,1671,3486,0 775,4056,827,4135,0 785,2248,838,2360,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SHARPEN97.jpg 1635,515,1701,607,0 765,5979,839,6081,0 775,5461,836,5565,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH1.jpg 1561,3547,1614,3717,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH10.jpg 1595,7453,1646,7600,0 847,5474,889,5596,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH101.jpg 1555,5281,1598,5402,0 1561,7289,1607,7424,0 839,3225,880,3360,0 831,5145,885,5324,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH102.jpg 1505,3817,1555,3949,0 863,757,916,877,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH103.jpg 1585,1741,1631,1872,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH104.jpg 850,7481,889,7631,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH105.jpg 845,5517,908,5670,0 1545,3883,1607,4037,0 1551,3048,1603,3182,0 848,5028,904,5151,0 848,4677,908,4818,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH106.jpg 1571,2755,1609,2844,0 935,1078,978,1190,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH107.jpg 1575,5834,1627,6003,0 861,6820,896,6932,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH11.jpg 1587,7887,1635,8027,0 845,5906,886,6027,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH12.jpg 1567,2608,1637,2772,0 822,2721,872,2847,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH13.jpg 1574,3670,1618,3801,0 836,1663,879,1796,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH14.jpg 1579,4736,1638,4901,0 838,6375,907,6513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH15.jpg 829,6023,908,6204,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH16.jpg 1578,6546,1625,6658,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH17.jpg 1557,1131,1596,1244,0 1561,5931,1607,6069,0 864,7730,914,7868,0 866,3974,917,4095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH18.jpg 1563,6963,1635,7116,0 1559,5163,1609,5281,0 1551,3789,1614,3944,0 864,98,925,223,0 859,5423,914,5553,0 862,6746,918,6864,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH19.jpg 1580,7385,1627,7568,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH2.jpg 1567,6208,1629,6366,0 898,4321,937,4449,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH20.jpg 1583,5427,1635,5589,0 830,3363,885,3545,0 1577,529,1617,675,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH21.jpg 863,5525,903,5647,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH22.jpg 1589,2968,1632,3086,0 847,926,888,1095,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH24.jpg 1565,3777,1627,3930,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH25.jpg 1582,4184,1636,4315,0 837,2153,885,2323,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH26.jpg 1598,5268,1659,5412,0 858,6928,929,7085,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH27.jpg 1607,3273,1665,3408,0 862,4924,924,5069,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH28.jpg 1603,8033,1666,8174,0 846,6848,914,6984,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH29.jpg 1598,4264,1656,4397,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH3.jpg 1630,5700,1687,5840,0 903,7273,974,7423,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH30.jpg 885,7481,959,7638,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH31.jpg 888,5529,956,5678,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH32.jpg 1589,7704,1655,7853,0 846,859,909,992,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH33.jpg 868,5585,923,5705,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH34.jpg 1609,2531,1654,2666,0 1614,5401,1652,5514,0 901,3410,932,3507,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH35.jpg 852,7829,904,7931,0 1596,6151,1665,6307,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH36.jpg 1589,2860,1662,3024,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH37.jpg 858,1988,922,2131,0 1595,316,1652,463,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH38.jpg 858,6361,922,6529,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH39.jpg 1603,404,1669,563,0 851,2051,920,2232,0 858,2675,920,2795,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH4.jpg 1588,2127,1626,2265,0 871,123,905,231,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH40.jpg 859,915,924,1063,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH41.jpg 1587,2309,1655,2470,0 1586,3449,1653,3613,0 861,6459,916,6576,0 859,5145,915,5262,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH42.jpg 850,3435,907,3567,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH43.jpg 1631,436,1689,559,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH44.jpg 1632,3351,1690,3504,0 884,5022,944,5158,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH45.jpg 864,4749,922,4891,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH46.jpg 1624,4184,1682,4301,0 888,5552,950,5672,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH47.jpg 1622,5019,1685,5146,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH48.jpg 887,2575,947,2730,0 891,7527,950,7676,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH49.jpg 1624,1162,1680,1287,0 1629,2874,1681,2994,0 884,4533,946,4661,0 884,2819,943,2957,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH5.jpg 1562,5991,1629,6140,0 883,7582,935,7704,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH50.jpg 1628,4658,1684,4775,0 889,6314,947,6448,0 885,4605,942,4726,0 1626,2946,1687,3068,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH51.jpg 1621,1699,1693,1829,0 1618,2633,1687,2788,0 887,3347,944,3475,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH52.jpg 1628,5910,1687,6065,0 1620,7017,1681,7159,0 883,7574,937,7693,0 887,210,954,346,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH53.jpg 1633,6622,1694,6746,0 883,8298,939,8415,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH54.jpg 1619,132,1675,265,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH55.jpg 851,712,910,852,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH56.jpg 1595,6360,1634,6495,0 864,4373,903,4499,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH57.jpg 1669,1785,1722,1974,0 1672,6876,1742,7040,0 789,3777,854,3954,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH58.jpg 1673,4731,1731,4871,0 793,6690,859,6840,0 785,5441,851,5609,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH59.jpg 1633,2991,1698,3151,0 816,4797,876,4941,0 804,8325,872,8473,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH6.jpg 1580,4811,1627,4944,0 1585,6205,1625,6342,0 871,2804,909,2923,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH7.jpg 1576,5552,1632,5680,0 866,7144,930,7289,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH8.jpg 1580,4136,1645,4268,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH9.jpg 1580,4074,1629,4219,0 1585,6473,1634,6627,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH90.jpg 1501,2799,1545,2934,0 903,1231,952,1390,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH91.jpg 952,5902,1004,6070,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH92.jpg 1546,4009,1602,4173,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH93.jpg 911,3093,956,3242,0 910,1256,964,1436,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH94.jpg 1547,4492,1593,4621,0 922,2751,968,2910,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH95.jpg 1607,532,1671,613,0 1611,5545,1675,5645,0 781,5471,847,5597,0 791,4432,845,4513,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH96.jpg 1605,3393,1671,3486,0 775,4056,827,4135,0 785,2248,838,2360,0
+D:\Environment\Anaconda3\envs\tensorflow\WorkSpace\faster-rcnn-keras/VOCdevkit/VOC2007/JPEGImages/SMOOTH97.jpg 1635,515,1701,607,0 765,5979,839,6081,0 775,5461,836,5565,0
